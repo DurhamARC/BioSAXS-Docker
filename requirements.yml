@@ -7,4 +7,5 @@ dependencies:
   - openmm[cuda12]
   - cuda-version=12
   - pdbfixer
+  - biopython
 
