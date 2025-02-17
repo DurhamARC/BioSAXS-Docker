@@ -1,0 +1,10 @@
+name: biosaxs
+channels:
+  - conda-forge
+dependencies:
+  - flask
+  - numpy
+  - openmm[cuda12]
+  - cuda-version=12
+  - pdbfixer
+
